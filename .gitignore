@@ -18,6 +18,7 @@ devel_isolated/
 */build/
 devel/
 logs/
+# Tests
 */.vscode/*
 .catkin_tools/*
 z!
