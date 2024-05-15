@@ -13,3 +13,6 @@
 [submodule "src/turtlebot3"]
 	path = src/turtlebot3
 	url = https://github.com/namanxkumar/turtlebot3.git
+[submodule "src/mpc_new"]
+	path = src/mpc_new
+	url = https://github.com/Smart-Wheelchair-RRC/mpc_new
